@@ -34,7 +34,7 @@ Métodos para evaluar el rendimiento del modelo y realizar predicciones con nuev
    cd tu-repositorio
 3. Instala las dependencias necesarias:
    ```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
 4. Abre el notebook con Jupyter:
 ```bash
 jupyter notebook tu-primera-red-neuronal-con-keras.ipynb
