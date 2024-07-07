@@ -30,10 +30,13 @@ Métodos para evaluar el rendimiento del modelo y realizar predicciones con nuev
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
 2. Navega al directorio del proyecto:
+   ```bash
    cd tu-repositorio
 3. Instala las dependencias necesarias:
+   ```bash
 pip install -r requirements.txt
 4. Abre el notebook con Jupyter:
+```bash
 jupyter notebook tu-primera-red-neuronal-con-keras.ipynb
 
 
